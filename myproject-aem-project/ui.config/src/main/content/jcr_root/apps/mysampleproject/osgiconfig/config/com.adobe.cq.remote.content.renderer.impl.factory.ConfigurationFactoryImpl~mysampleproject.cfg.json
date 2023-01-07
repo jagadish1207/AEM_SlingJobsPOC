@@ -1,0 +1,7 @@
+{
+    "getContentPathPattern": "/content/mysampleproject/(.*)|/conf/mysampleproject/(.*)/settings/wcm/templates/(.*)",
+    "getRequestTimeout": 10000,
+    "getAdditionalRequestHeaders": [
+    
+    ]
+}

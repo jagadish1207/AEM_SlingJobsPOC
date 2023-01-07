@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="myproject-aem-project.ui.apps" />
+        <module name="myproject-aem-project.core" />
+        <module name="myproject-aem-project.all" />
+        <module name="myproject-aem-project.ui.config" />
+        <module name="myproject-aem-project.ui.content" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="myproject-aem-project.it.tests" target="1.8" />
+      <module name="myproject-aem-project.ui.apps.structure" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
